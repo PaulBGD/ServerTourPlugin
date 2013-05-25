@@ -1,0 +1,10 @@
+name: Server Tour
+version: 1.0.0
+description: Tours!
+author: Ultimate
+main: me.ultimate.ST.ServerTour
+
+commands:
+  st:
+    description: Fill in later
+    usage: /st
